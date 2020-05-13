@@ -1,0 +1,2 @@
+holds(current(1,3),0).
+goal(T):- holds(current(12,10),T), step(T).

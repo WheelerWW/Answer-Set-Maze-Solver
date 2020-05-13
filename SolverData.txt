@@ -1,0 +1,11 @@
+clingo version 5.3.0
+Reading from MazeASPSolver.txt ...
+Solving...
+Answer: 1
+occurs(move_east,0) occurs(move_north,1) occurs(move_north,2) occurs(move_east,3) occurs(move_south,4) occurs(move_east,5) occurs(move_north,6) occurs(move_east,7) occurs(move_east,8) occurs(move_south,9) occurs(move_south,10) occurs(move_south,11) occurs(move_west,12) occurs(move_south,13) occurs(move_south,14) occurs(move_south,15) occurs(move_east,16) occurs(move_south,17) occurs(move_east,18) occurs(move_east,19) occurs(move_east,20) occurs(move_south,21) occurs(move_west,22) occurs(move_south,23) occurs(move_east,24) occurs(move_south,25) occurs(move_east,26) occurs(move_north,27) occurs(move_north,28) occurs(move_east,29) occurs(move_south,30) occurs(move_east,31)
+SATISFIABLE
+
+Models       : 1+
+Calls        : 1
+Time         : 0.445s (Solving: 0.01s 1st Model: 0.01s Unsat: 0.00s)
+CPU Time     : 0.453s

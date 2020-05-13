@@ -30,6 +30,6 @@ The files necessary for this program to work are as follows:
 	
 *NOTE*
 For whatever reason, my Answer Set Program cannot properly solve mazes of length 4 or lower.  I have tested it extensively to see what the problem might be, and I have found nothing.
-It is rather irritating.  However, it is definitely a problem in the ASP, not the Python.  I have tried hard-coding length 3 mazes into the ASP, and the Answer Sets still make no sense.  Given that this is the first Answer Set Program I have ever made, I imagine there may well be an error in my constraints that is causing these strange bugs.
+It is rather irritating.  However, it is definitely a problem in the ASP, not the Python.  I have tried hard-coding length 3 mazes into the ASP, and the Answer Sets still make no sense.  Given that this is the first Answer Set Program I have ever made, I imagine there may well be an error in my rules that is causing these strange bugs.
 Be prepared to see mazes that move through walls, somehow have 8 or more moves, move backwards, or move from one side of the maze to the other Pacman-style when doing sufficiently small mazes.  (I honestly don't even understand that last one).  
 I have constraints to prevent all of these possibilities.  I do not know why they are ineffective at such small maze lengths.

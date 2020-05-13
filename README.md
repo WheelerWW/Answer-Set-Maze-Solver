@@ -1,10 +1,8 @@
 # Answer-Set-Maze-Solver
 A program which uses answer set programming with Clingo to solve a maze generated in Python. Also utilizes a Python GUI for visualization.
 
-This program is a maze solver which utilizes Answer Sets (to solve the maze) and TKinter Python (to get user input and generate the GUI).
-This program is fairly simple to use.  Just do the following:
-	1. Type in a start cell and an end cell in the entry fields on the right hand side of the window.  Please make sure they are within x,y format.
-	   Also, please be sure that the values you enter are within the range of 1-12.  There is a reminder in the program window if you forget.
+This program is a maze solver which utilizes Answer Sets (to solve the maze) and TKinter Python (to get user input and generate the GUI).This program is fairly simple to use.  Just do the following:
+	1. Type in a start cell and an end cell in the entry fields on the right hand side of the window.  Please make sure they are within x,y format. Also, please be sure that the values you enter are within the range of 1-12.  There is a reminder in the program window if you forget.
 	2. Click the 'Solve' Button.  The start and end cells that you chose should light up yellow, while any cells along the path to those cells will light up cyan.
 	3. Click the 'Clear' Button to reset the map.  Enter new values into the entry fields to try again.
 	4. Click quit when you are ready to exit the program.
